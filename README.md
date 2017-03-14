@@ -1,4 +1,4 @@
-#Ideas
+﻿#Ideas
 
 ## 1.书籍管理工具
 正在实现当中，[点击链接](https://github.com/whatever1992/B)
@@ -37,9 +37,13 @@ PS. 要加到Bzll里
 diff 各种格式文件
 支持只checkout一个目录
 支持分布式锁
+参考 Git LFS 和 Perforce
 
 ## 12.PodCast客户端
 可以识别语音，提炼出文字
 
 ## 13.操作系统
-呵呵
+呵呵，开个玩笑
+
+## 14.HTML5/CSS3 User Interface library（急需）
+参考libRocket和EaWebkit
