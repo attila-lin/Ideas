@@ -1,10 +1,12 @@
-﻿#Ideas
+﻿# Ideas
+一些小小的想法
+---
 
 ## 1.书籍管理工具
 正在实现当中，[点击链接](https://github.com/whatever1992/B)
 
 ## 2.密室逃脱Demo
-Bzll的Demo
+Bzll 的 Demo
 
 ## 3.字帖对比
 字帖和摄像头对比
@@ -13,7 +15,7 @@ Bzll的Demo
 买了手机版，感觉不过瘾。感觉做出来估计就不用上班了。
 
 ## 5.DarkRoom
-Movie管理器，准备开始实现
+Movie 管理器，准备开始实现
 
 ## 6.代码碎片管理
 总是找各种代码简直烦，把代码碎片用tag管理起来
@@ -27,15 +29,15 @@ Movie管理器，准备开始实现
 柯南的那种！【有点难
 
 ## 9.lualint（废弃）
-用于检查lua代码，工作用
+用于检查 lua 代码，工作用
 
 ## 10.Game Develop 环境
 工作用
-PS. 要加到Bzll里
+PS. 要加到 Bzll 里
 
 ## 11.给美术用的类似 Perforce 的分布式版本控制
 diff 各种格式文件
-支持只checkout一个目录
+支持只 checkout 一个目录
 支持分布式锁
 参考 Git LFS 和 Perforce
 
@@ -46,7 +48,7 @@ diff 各种格式文件
 呵呵，开个玩笑
 
 ## 14.HTML5/CSS3 User Interface library（急需）
-参考libRocket和EaWebkit，Sciter，cef
+参考 libRocke t和 EaWebkit，Sciter，cef，servo
 https://www.reddit.com/r/rust/comments/38kbe8/using_servo_as_a_library/
 
 ## 15.AO3的客户端
@@ -54,3 +56,4 @@ https://www.reddit.com/r/rust/comments/38kbe8/using_servo_as_a_library/
 
 ## 16.Watchman
 监控文件修加、增加、删除等
+PS. 要加到 Bzll 里
