@@ -57,3 +57,7 @@ https://www.reddit.com/r/rust/comments/38kbe8/using_servo_as_a_library/
 ## 16.Watchman
 监控文件修加、增加、删除等
 PS. 要加到 Bzll 里
+
+## 17.Google Translate PC Version
+现在的翻译软件广告太多了
+支持划线、屏幕取词
