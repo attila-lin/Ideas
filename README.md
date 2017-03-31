@@ -60,4 +60,5 @@ PS. 要加到 Bzll 里
 
 ## 17.Google Translate PC Version
 现在的翻译软件广告太多了
+顺便庆祝 Google Translate 服务回归
 支持划线、屏幕取词
